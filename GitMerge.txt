@@ -1,9 +1,7 @@
 Govind
 This is in qa branch
 Raju qa
-<<<<<<< HEAD
 master branch
-=======
 I am in qa
 QA branch
->>>>>>> qa
+
